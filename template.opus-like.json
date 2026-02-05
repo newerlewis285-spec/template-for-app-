@@ -1,0 +1,35 @@
+{
+  "name": "Opus-Like Viral Short VN",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "text_style": {
+    "font_family": "Montserrat ExtraBold",
+    "font_size": 66,
+    "bold": true,
+    "italic": false,
+    "position": "bottom_center",
+    "margin_v": 180,
+    "primary_color": "#FFFFFF",
+    "secondary_color": "#FFE066",
+    "outline_color": "#000000",
+    "outline": 5,
+    "shadow": 2
+  },
+  "text_effects": {
+    "fade_in_ms": 130,
+    "fade_out_ms": 170,
+    "pop_in": true
+  },
+  "video_effects": {
+    "background_blur": 20,
+    "foreground_zoom_strength": 0.028,
+    "saturation": 1.16,
+    "contrast": 1.06,
+    "brightness": 0.01
+  },
+  "encoding": {
+    "crf": 19
+  }
+}
