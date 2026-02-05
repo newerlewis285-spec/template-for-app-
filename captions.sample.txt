@@ -1,0 +1,4 @@
+Đây là template dựng video thông minh.
+Bạn chỉ cần thay video gốc và nội dung câu chữ.
+Font, màu, hiệu ứng và bố cục sẽ tự động áp dụng.
+Tốc độ dựng nhanh hơn, không cần chỉnh tay nhiều lần.
